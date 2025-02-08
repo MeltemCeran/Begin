@@ -1,7 +1,8 @@
-# neler öğrendiğimi verilerle görebilmek için yazmayı hayal ettiğim bir proje. 
-# bide becerilerimi geliştirmek istiyorum tabiki. özellikle önyüzde.
-# front-end ile ilgili neyi yapmayı isterim? 
-# algoritma ürünü ortaya çıkartır mı?
+# newProject
+neler öğrendiğimi verilerle görebilmek için yazmayı hayal ettiğim bir proje. 
+bide becerilerimi geliştirmek istiyorum tabiki. özellikle önyüzde.
+front-end ile ilgili neyi yapmayı isterim? 
+algoritma ürünü ortaya çıkartır mı?
 
 kodları izlemek isterseniz : https://www.instagram.com/senaslindakimsin/
 
