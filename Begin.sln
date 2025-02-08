@@ -3,7 +3,17 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.11.35327.3
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FirstChapterFirstMove", "FirstChapterFirstMove\FirstChapterFirstMove.csproj", "{24DBD6B8-309B-400C-AB49-37B78AF87D61}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FirstChapterFirstMove", "FirstChapterFirstMove\FirstChapterFirstMove.csproj", "{24DBD6B8-309B-400C-AB49-37B78AF87D61}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "pics", "pics", "{542D086C-17BA-4804-940A-649491168B03}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Core", "Core", "{E46305DD-36FA-4630-894F-6EAADACA654C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoreEntities", "CoreEntities\CoreEntities.csproj", "{3C330A78-1120-4634-82AF-FFFDC122A37F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "console", "console", "{DFA554D5-60D8-40AA-AC83-BA8A48189877}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Entities", "Entities", "{8C647A58-C698-4332-A043-FFA33AC14CC3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,9 +25,19 @@ Global
 		{24DBD6B8-309B-400C-AB49-37B78AF87D61}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{24DBD6B8-309B-400C-AB49-37B78AF87D61}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{24DBD6B8-309B-400C-AB49-37B78AF87D61}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3C330A78-1120-4634-82AF-FFFDC122A37F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C330A78-1120-4634-82AF-FFFDC122A37F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C330A78-1120-4634-82AF-FFFDC122A37F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C330A78-1120-4634-82AF-FFFDC122A37F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{24DBD6B8-309B-400C-AB49-37B78AF87D61} = {DFA554D5-60D8-40AA-AC83-BA8A48189877}
+		{3C330A78-1120-4634-82AF-FFFDC122A37F} = {8C647A58-C698-4332-A043-FFA33AC14CC3}
+		{DFA554D5-60D8-40AA-AC83-BA8A48189877} = {E46305DD-36FA-4630-894F-6EAADACA654C}
+		{8C647A58-C698-4332-A043-FFA33AC14CC3} = {E46305DD-36FA-4630-894F-6EAADACA654C}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {B7D1A568-6C8A-48E7-8419-5ECF198722E5}
