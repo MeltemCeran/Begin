@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="CoreEntities.Concrete.BaseEntity">
+    <Position X="4.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAQA=</HashCode>
+      <FileName>Concrete\BaseEntity.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CoreEntities.Concrete.Move" Collapsed="true">
+    <Position X="9.25" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAGAAAAAACAAAAAAAAAAAAAIAAABAAAAAAAAAQA=</HashCode>
+      <FileName>Concrete\Move.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="CoreEntities.Concrete.Platform">
+    <Position X="2.25" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAA=</HashCode>
+      <FileName>Concrete\Platform.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CoreEntities.Concrete.Result">
+    <Position X="6.75" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAA=</HashCode>
+      <FileName>Concrete\Result.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CoreEntities.Concrete.Reaction">
+    <Position X="4.5" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAEAAAAAAAAAAAAAAIAAAAAAAAACAAACAAAAAA=</HashCode>
+      <FileName>Concrete\Reaction.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="CoreEntities.Abstract.IBaseEntity" Collapsed="true">
+    <Position X="9.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAEAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAQA=</HashCode>
+      <FileName>Abstract\IBaseEntity.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

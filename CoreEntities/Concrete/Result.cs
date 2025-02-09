@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace CoreEntities.Concrete
 {
-    public class Results : BaseEntity
+    public class Result : BaseEntity
     {
         public string MoveResponse { get; set; }
         public DateTime ResponseTime { get; set; } // cevaplanma süresi.
