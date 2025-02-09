@@ -13,6 +13,10 @@ namespace CoreEntities.Concrete
         public string? How {  get; set; }
         public bool IsNeedMoney { get; set; }
         public decimal Cost { get; set; }
+        public bool NeedMove { get; set; } // if NeedMove is true : Move.Add(new move)
+        public Move? Move { get; set; }
+        public int MoveId { get; set; }
+
 
         /// <summary>
         /// bu metoda bu isim bulmak gerek. belki gerek bile yoktur buna bakarız sonra.

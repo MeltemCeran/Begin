@@ -10,5 +10,6 @@ namespace CoreEntities.Concrete
     {
         public string MoveResponse { get; set; }
         public DateTime ResponseTime { get; set; } // cevaplanma süresi.
+        public List<Possibility> Possibilities { get; set; }
     }
 }
