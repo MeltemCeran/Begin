@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Construction.Repositories.Concrete
+namespace Construction.Concrete
 {
     public interface IRepository<T> where T : class
     {

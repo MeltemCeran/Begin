@@ -10,8 +10,4 @@
     <Folder Include="Abstract\" />
   </ItemGroup>
 
-  <ItemGroup>
-    <ProjectReference Include="..\CoreEntities\CoreEntities.csproj" />
-  </ItemGroup>
-
 </Project>
