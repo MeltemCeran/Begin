@@ -24,3 +24,7 @@ React ile yapmak istediğim CV'nin taslağını yaptım bakmak isterseniz =>()
 {
 string url = https://senaslindakimsin.my.canva.site/cv
 }
+
+![UML Diagramı](https://github.com/MeltemCeran/Begin/blob/main/githubicin.png)
+Geriye sadece bunları gerçek websitelerine çevirmek kaldı.
+Link: https://senaslindakimsin.my.canva.site/what-did-you-live-today
